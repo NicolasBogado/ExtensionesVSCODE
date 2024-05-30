@@ -40,3 +40,7 @@ python install_extensions.py
 
 ## Paso 5: ¡Disfruta de Visual Studio Code!
 ¡Felicidades! Has configurado correctamente Visual Studio Code y has instalado las extensiones que necesitas. Ahora puedes empezar a utilizar VSCode para desarrollar tus proyectos de manera eficiente y productiva. Si necesitas ayuda adicional, no dudes en consultar la documentación oficial de VSCode o la comunidad en línea. ¡Feliz codificación!
+
+## Captura pantalla
+![Captura de pantalla 2024-05-30 115040](https://github.com/NicolasBogado/ExtensionesVSCODE/assets/112599449/6b2c95a7-9d6e-44b6-a417-57c67cec93ad)
+
